@@ -1,0 +1,15 @@
+  {
+    "model": "account.User",
+    "fields": {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "gender": "f",
+      "type": "admin",
+      "date_of_birth": "2019-06-04",
+      "allow_mail_notification": "True"
+    }
+  }
+
+
+
